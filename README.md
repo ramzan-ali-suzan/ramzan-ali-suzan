@@ -4,7 +4,7 @@
 
 This is the place where I opensource stuff and try to learn from others 😋
 
-- 🔭 I’m currently working on [InformatiQ](https://www.informatiq.no/)
+- 🔭 I’m currently working on [InformatiQ](https://github.com/informatiqdev)
 - 🌱 I’m currently learning Data structures and Algorithms
 - 👯 I’m looking to collaborate on any open source project
 - 🤔 I’m looking for help with Microservices Architecture 
